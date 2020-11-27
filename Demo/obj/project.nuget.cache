@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SOHpU/tSpGpKNlg8eN7LYe+eO+ddnGBAwpkkJN+ceOnUGDpYvYRz1NbeF3bElRJh6SQ1fO+bNA1CCgqoDZZ5SA==",
+  "success": true,
+  "projectFilePath": "E:\\Project\\20201018Architect01Course082Jenkins-CICD\\20201018Architect01Course082Jenkins-CICD\\ppt和笔记\\source\\Demo\\Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
